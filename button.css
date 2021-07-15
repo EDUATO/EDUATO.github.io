@@ -1,0 +1,22 @@
+.buttons_design {
+    position: relative;
+    font-weight: bold;
+    padding: 10px;
+    font-family: sans-serif;
+    margin-left: 50%;
+    margin-right: auto;
+    border: 2px black solid;
+    background-color: aqua;
+    cursor: pointer;
+    border-radius: 5px;
+    
+    
+}
+
+.buttons_design:hover {
+    background-color: orange;
+}
+
+h1 {
+    align-self: center;
+}
